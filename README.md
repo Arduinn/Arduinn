@@ -15,8 +15,17 @@
   </a>
 </p>
 
-<p align="center">
-  As an economist and statistician, I am deeply committed to employing quantitative analysis to facilitate precise decision-making within corporate environments. Throughout my career, I have consistently applied analytical approaches across diverse industries. Nevertheless, it was within the energy sector, particularly in the refinery and fuels market, where I encountered the most interesting challenges for impactful insights and strategic interventions.
+<h2>Who I Am</h2>
+
+<p>
+  As an economist and statistician with a passion for data-driven decision-making, I bring a proven track record in leveraging quantitative analysis to drive strategic insights and solutions. My career spans diverse industries, with a specialization in commodities such as Crude Oil, Energy, Metals, Macro, and FX. I excel in:
+  <ul>
+    <li>Applying advanced statistical methods and econometric models to interpret complex data sets.</li>
+    <li>Developing forecasting models and conducting market research to anticipate economic trends.</li>
+    <li>Collaborating with cross-functional teams to optimize business processes and enhance financial performance.</li>
+    <li>Communicating findings and recommendations to stakeholders at all organizational levels.</li>
+    <li>Adapting swiftly to evolving market conditions and regulatory environments.</li>
+  </ul>
 </p>
 
 <h2>Commodities <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
