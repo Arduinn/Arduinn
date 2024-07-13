@@ -70,5 +70,5 @@
 
 <p align="center">
   Credit: <a href="https://github.com/Arduinn/VictorArduin">VictorArduin</a> <br>
-  Last Edited on: 13/12/2021
+  Last Edited on: July 13, 2024
 </p>
