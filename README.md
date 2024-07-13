@@ -2,7 +2,7 @@
 
 <p align='center'>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;When+you+have+eliminated+the+impossible,+whatever+remains,+however+improbable,+must+be+the+truth.;I'm+a+Statistician+and+Economist">
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=100&lines=Welcome+to+my+GitHub+Profile!;When+you+have+eliminated+the+impossible,+whatever+remains,+however+improbable,+must+be+the+truth.">
   </a>
 </p>
 
@@ -59,21 +59,7 @@
   </a>
 </p>
 
-<h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
-
-<p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
-  </a>
-</p>
-
-<h2>Popular Projects</h2>
+<h2>Newsletter</h2>
 
 <!-- Add your popular projects here -->
 
