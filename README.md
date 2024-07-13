@@ -1,4 +1,4 @@
-<h1 align="center">Hello Fellow < Traders Community/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello < World/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align='center'>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
